@@ -1,0 +1,15 @@
+# virtualenv / interpreter
+.venv/
+__pycache__/
+*.py[cod]
+
+# local backups and editor cruft
+*.bak-*
+.DS_Store
+.idea/
+.vscode/
+
+# generated output: 4x6 PDFs and PNG previews
+*_4x6.pdf
+*_4x6_p*.pdf
+*_4x6*.png
