@@ -77,3 +77,7 @@ All heuristics can be overridden with `--page`, `--crop`, `--rotate`, `--fit`,
 ```sh
 .venv/bin/python -m unittest discover -s tests -v
 ```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
